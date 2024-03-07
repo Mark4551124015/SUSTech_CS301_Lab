@@ -2,7 +2,7 @@
 .metadata/
 RemoteSystemsTempFiles/
 .settings/
-Debug/
+# Debug/
 *.launch
 
 # STM32 git ignore
